@@ -1,0 +1,1 @@
+ami_value="ami-02b8269d5e85954ef"
