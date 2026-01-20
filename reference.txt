@@ -1,0 +1,9 @@
+Terraform commands
+1. terrafrom init
+2. terrafrom plan
+3. terraform apply
+4. terraform show (gives full output of changes we made)
+5. terraform workspace new <space like dev,stage, prod...>( mention space <>)
+6. terraform workspace select <space> (under space mention dev, prod, depends on the stages we have)
+7.tree(gives you structure)
+ref :https://github.com/iam-veeramalla/terraform-zero-to-hero/tree/main 
