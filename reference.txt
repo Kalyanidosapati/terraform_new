@@ -7,3 +7,4 @@ Terraform commands
 6. terraform workspace select <space> (under space mention dev, prod, depends on the stages we have)
 7.tree(gives you structure)
 ref :https://github.com/iam-veeramalla/terraform-zero-to-hero/tree/main 
+ref doc : https://registry.terraform.io/providers/hashicorp/aws/latest/docs
